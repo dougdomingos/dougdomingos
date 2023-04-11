@@ -12,19 +12,22 @@
 
 ###
 
-<h1 align="center">👋 Olá, mundo!</h1>
+<h1 align="center">👋 Hello, World!</h1>
 
 ###
 
-<h3 align="left">👩‍💻  Sobre mim</h3>
+<h3 align="left">👩‍💻  I'm Douglas</h3>
 
 ###
 
-<p align="left">Me chamo Douglas Domingos, e almejo ser Desenvolvedor Web Fullstack.<br><br>- 📚 Graduando em Ciência da Computação na UFCG<br>- ⚡ Buscando aprender algo novo com cada projeto</p>
+<p align="left">I'm a self-taught programmer, powered by coffee and passionate about everything that involves coding and problem-solving.
+Currently, I'm focusing on Web Development, both on Frontend and Backend.<br>
+<br>- 📚 Computer Science student at Federal University of Campina Grande (UFCG)
+<br>- ⚡ Always aiming to improve with every project<p>
 
 ###
 
-<h3 align="left">🛠 Minha stack</h3>
+<h3 align="left">🛠 My Stack:</h3>
 
 ###
 
@@ -40,7 +43,7 @@
 
 ###
 
-<h3 align="left">📌 Tenho interesse em...</h3>
+<h3 align="left">📌 I'm interested in:</h3>
 
 ###
 
@@ -55,7 +58,6 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=dougdomingos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dougdomingos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###

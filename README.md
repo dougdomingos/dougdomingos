@@ -19,7 +19,7 @@
 
 ###
 
-<h3 align="left">👩‍💻 My name is Douglas</h3>
+<h3 align="left">👩‍💻 My name is Douglas :)</h3>
 
 ###
 

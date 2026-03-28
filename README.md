@@ -13,7 +13,7 @@
 ###
 
 <p align="center">
-  <a href="https://dougdomingos.github.io/v2" target="_blank" alt="Personal blog">🌐 Personal Blog</a>
+  <a href="https://dougdomingos.netlify.app/" target="_blank" alt="Personal blog">🌐 Personal Blog</a>
   |
   <a href="https://www.linkedin.com/in/douglas-domingos/" target="_blank" alt="LinkedIn">💼 LinkedIn</a>
 </p>
